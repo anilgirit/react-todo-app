@@ -11,9 +11,6 @@ In the project directory, you can run:
 - Projeyi fork'ladıktan ya da indirdikten sonra projenin bulunduğu klasörde "npm install" komutu ile gerekli paketlerin yüklenmesi gerekiyor.
 - Daha sonra "npm run start" komutu ile uygulama başlatılabilir.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
